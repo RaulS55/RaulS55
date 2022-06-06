@@ -18,8 +18,8 @@
         <img height="64px" src="https://www.svgrepo.com/show/353631/dart.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <span>Postgresql</span><br><br><br>
+        <img height="64px" src="https://www.svgrepo.com/show/354200/postgresql.svg">
       </td>
       <td width="25%" align="center">
         <span>Java</span><br><br><br>
@@ -44,23 +44,11 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
       </td>
     </tr>
-<!--     <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
-      </td>
-    </tr>
-    <tr valign="top"> -->
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
-      </td>
+
   </tbody>
 </table>
 
 <br>
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheShubhamK)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=RaulS55)
