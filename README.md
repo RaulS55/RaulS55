@@ -4,6 +4,9 @@
 - 📫 How to reach me **raulsuruguay@gmail.com** 
 - or linkedin **https://www.linkedin.com/in/raul-suruguay-014293191/**
 
+[![Linkedin Badge](https://img.shields.io/badge/-Shubham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raul-suruguay-014293191/)](https://www.linkedin.com/in/raul-suruguay-014293191/)
+
+
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <table>
