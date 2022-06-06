@@ -14,8 +14,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗧𝗲𝗻𝘀𝗼𝗿𝗳𝗹𝗼𝘄</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
+        <span>Dart</span><br><br><br>
+        <img height="64px" src="https://www.svgrepo.com/show/353631/dart.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
@@ -28,8 +28,8 @@
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗔𝗱𝗼𝗯𝗲 𝗫𝗗</span><br><br><br>
-        <img height="64px" src="https://www.svgrepo.com/show/303109/adobe-xd-logo.svg">
+        <span>𝗔𝗱𝗼𝗯𝗲 Photoshop</span><br><br><br>
+        <img height="64px" src="https://www.svgrepo.com/show/303177/photoshop-cc-logo.svg">
       </td>
       <td width="25%" align="center">
         <span>Node.js</span><br><br><br>
@@ -61,3 +61,6 @@
 </table>
 
 <br>
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheShubhamK)
