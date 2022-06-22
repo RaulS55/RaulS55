@@ -22,8 +22,8 @@
         <img height="64px" src="https://www.svgrepo.com/show/353631/dart.svg">
       </td>
       <td width="25%" align="center">
-        <span>Postgresql</span><br><br><br>
-        <img height="64px" src="https://www.svgrepo.com/show/354200/postgresql.svg">
+        <span>Firebase</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
       </td>
       <td width="25%" align="center">
         <span>Java</span><br><br><br>
@@ -44,8 +44,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>Firebase</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
+        <span>Postgresql</span><br><br><br>
+        <img height="64px" src="https://www.svgrepo.com/show/354200/postgresql.svg">
       </td>
     </tr>
 
